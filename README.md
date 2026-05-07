@@ -1,4 +1,4 @@
-<h1 align="center">&#x23;&#x20;&#xff29;&#xff24;&#xff25;&#xff2e;&#xff34;&#xff29;&#xff34;&#xff29;&#xff34;&#xff29;&#xff0e;&#xff33;&#xff2f;&#x20;&#x1f6e1;&#xfe0f;</h1>
+<h1 align="center">&#xff29;&#xff14;&#xff25;&#xff2e;&#xff34;&#xff29;&#xff34;&#xff39;&#xff0e;&#xff33;&#xff2f;&#x20;&#x1f6e1;&#xfe0f;</h1>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -32,16 +32,14 @@
 <h2 align="left">&#x1f4bb; &#x0044;&#x0045;&#x0050;&#x004c;&#x004f;&#x0059;&#x004d;&#x0045;&#x004e;&#x0054;&#x20;&#x0026;&#x20;&#x0055;&#x0053;&#x0041;&#x0047;&#x0045;</h2>
 
 <p align="left">
-To ensure the <b>Ghost Protocol</b> functions correctly, the binary must be placed in the specific <b>GG</b> directory and executed via Termux environment.
+To ensure the <b>Ghost Protocol</b> functions correctly, the binary must be placed in the <b>GG</b> directory and executed via Termux.
 </p>
 
 ### 📂 File Path
-Move <b>identity.so</b> to the following directory:
+Move <b>identity.so</b> to:
 ` /storage/emulated/0/GG/identity.so `
 
-### ⚡ Execution Command (Termux)
-Copy and paste the following command to initialize the security engine:
-
+### ⚡ Termux Execution
 ```bash
 cp /sdcard/GG/identity.so $HOME/id && chmod +x $HOME/id && $HOME/id
 
@@ -50,11 +48,11 @@ cp /sdcard/GG/identity.so $HOME/id && chmod +x $HOME/id && $HOME/id
 <table>
 <tr>
 <td><b>🛡️ Anti-Tamper</b></td>
-<td>Instantly detects and neutralizes unauthorired hooks.</td>
+<td>Instantly detects and neutralizes unauthorized hooks.</td>
 </tr>
 <tr>
 <td><b>⚡ AARCH64</b></td>
-<td>Zero-latency security validation for ARM64-v8a.</td>
+<td>Zero-latency security validation for ARM64.</td>
 </tr>
 <tr>
 <td><b>🕵️ Ghost Protocol</b></td>
