@@ -1,9 +1,8 @@
-
-<h1 align="center">&#x23;&#x20;&#xff29;&#xff24;&#xff25;&#xff2e;&#xff34;&#xff29;&#xff34;&#xff29;&#xff34;&#xff29;&#xff0e;&#xff33;&#xff2f;&#x20;&#xff25;&#xff2c;&#xff29;&#xff34;&#xff25;&#x20;&#x1f6e1;&#xfe0f;</h1>
+<h1 align="center">&#x23;&#x20;&#xff29;&#xff24;&#xff25;&#xff2e;&#xff34;&#xff29;&#xff34;&#xff29;&#xff34;&#xff29;&#xff0e;&#xff33;&#xff2f;&#x20;&#x1f6e1;&#xfe0f;</h1>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&pause=1000&color=FFD700&center=true&width=910&height=100&lines=The+Gold+Standard+in+Security;Next-Gen+Anti-Tamper+Engine;Ghost+Protocol+Integrated;Developed+By+MOD+BASHA" alt="Identity-Elite" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&pause=1000&color=FFD700&center=true&width=910&height=100&lines=The+Gold+Standard+in+Security;Next-Gen+Anti-Tamper+Engine;Ghost+Protocol+Integrated;Developed+By+MOD+BASHA" alt="Identity-Core" />
   </a> 
 </div> 
 
@@ -30,7 +29,7 @@
 
 ---
 
-<h2 align="left">&#x1f525; &#x0045;&#x004c;&#x0049;&#x0054;&#x0045;&#x20;&#x0046;&#x0045;&#x0041;&#x0054;&#x0055;&#x0052;&#x0045;&#x0053;</h2>
+<h2 align="left">&#x1f525; &#x0046;&#x0045;&#x0041;&#x0054;&#x0055;&#x0052;&#x0045;&#x0053;</h2>
 
 <table>
   <tr>
@@ -47,7 +46,7 @@
   </tr>
   <tr>
     <td><b>🎯 &#x0045;&#x006e;&#x0067;&#x0069;&#x006e;&#x0065;&#x20;&#x0053;&#x0079;&#x006e;&#x0065;&#x0072;&#x0067;&#x0079;</b></td>
-    <td>&#x0046;&#x0075;&#x006c;&#x006c;&#x0079;&#x20;&#x006f;&#x0070;&#x0074;&#x0069;&#x006d;&#x0069;&#x007a;&#x0065;&#x0064;&#x20;&#x0066;&#x006f;&#x0072;&#x20;&#x003c;&#x0062;&#x003e;&#x0055;&#x0045;&#x0034;&#x20;&#x0026;&#x20;&#x0055;&#x0045;&#x0035;&#x3c;&#x002f;&#x0062;&#x003e;&#x20;&#x006d;&#x006f;&#x0062;&#x0069;&#x006c;&#x0065;&#x20;&#x0065;&#x006e;&#x0067;&#x0069;&#x006e;&#x0065;&#x0073;&#x002e;</td>
+    <td>&#x0046;&#x0075;&#x006c;&#x006c;&#x0079;&#x20;&#x006f;&#x0070;&#x0074;&#x0069;&#x006d;&#x0069;&#x007a;&#x0065;&#x0064;&#x20;&#x0066;&#x006f;&#x0072;&#x20;&#x003c;&#x0062;&#x003e;&#x0055;&#x0045;&#x0034;&#x20;&#x0026;&#x20;&#x0055;&#x0045;&#x0035;&#x3c;&#x002f;&#x0062;&#x003e;&#x20;&#x006d;&#x006f;&#x0062;&#x0069;&#x006c;&#x0065;&#x0020;&#x0065;&#x006e;&#x0067;&#x0069;&#x006e;&#x0065;&#x0073;&#x002e;</td>
   </tr>
 </table>
 
@@ -65,7 +64,7 @@
 
 <h2 align="left">&#x1f48e; &#x0057;&#x0048;&#x0059;&#x0020;&#x0043;&#x0048;&#x004f;&#x004f;&#x0053;&#x0045;&#x20;&#x0049;&#x0044;&#x0045;&#x004e;&#x0054;&#x0049;&#x0054;&#x0059;&#x003f;</h2>
 <p align="center">
-&#x0044;&#x0065;&#x0073;&#x0069;&#x0067;&#x006e;&#x0065;&#x0064;&#x20;&#x0062;&#x0079;&#x20;&#x004d;&#x004f;&#x0044;&#x20;&#x0042;&#x0041;&#x0053;&#x0048;&#x0041;&#x20;&#x0066;&#x006f;&#x0072;&#x20;&#x0074;&#x0068;&#x006f;&#x0073;&#x0065;&#x0020;&#x0077;&#x0068;&#x006f;&#x0020;&#x0064;&#x0065;&#x006d;&#x0061;&#x006e;&#x0064;&#x20;&#x0070;&#x0065;&#x0072;&#x0066;&#x006f;&#x0072;&#x20;&#x0070;&#x0065;&#x0072;&#x0066;&#x0065;&#x0063;&#x0074;&#x0069;&#x006f;&#x006e;&#x002e;
+&#x0044;&#x0065;&#x0073;&#x0069;&#x0067;&#x006e;&#x0065;&#x0064;&#x20;&#x0062;&#x0079;&#x20;&#x004d;&#x004f;&#x0044;&#x20;&#x0042;&#x0041;&#x0053;&#x0048;&#x0041;&#x20;&#x0066;&#x006f;&#x0072;&#x20;&#x0074;&#x0068;&#x006f;&#x0073;&#x0065;&#x20;&#x0077;&#x0068;&#x006f;&#x0020;&#x0064;&#x0065;&#x006d;&#x0061;&#x006e;&#x0064;&#x20;&#x0070;&#x0065;&#x0072;&#x0066;&#x0065;&#x0063;&#x0074;&#x0069;&#x006f;&#x006e;&#x002e;
 </p>
 
 <div align="center">
