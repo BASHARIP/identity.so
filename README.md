@@ -1,4 +1,4 @@
-<h1 align="center">&#xff29;&#xff14;&#xff25;&#xff2e;&#xff34;&#xff29;&#xff34;&#xff39;&#xff0e;&#xff33;&#xff2f;&#x20;&#x1f6e1;&#xfe0f;</h1>
+<h2 align="center">&#xff29;&#xff24;&#xff15;&#xff2e;&#xff34;&#xff29;&#xff34;&#xff39;&#xff0e;&#xff33;&#xff2f;&#x20;&#x1f6e1;&#xfe0f;</h2>
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -24,7 +24,7 @@
 
 <h2 align="left">&#x1f680; &#x0050;&#x0052;&#x004f;&#x0044;&#x0055;&#x0043;&#x0054;&#x20;&#x004f;&#x0056;&#x0045;&#x0052;&#x0056;&#x0049;&#x0045;&#x0057;</h2>
 <p align="left">
-<b>&#x0049;&#x0044;&#x0045;&#x004e;&#x0054;&#x0049;&#x0054;&#x0059;&#x002e;&#x0053;&#x004f;</b> &#x0069;&#x0073;&#x20;&#x006e;&#x006f;&#x0074;&#x20;&#x006a;&#x0075;&#x0073;&#x20;&#x0061;&#x20;&#x0062;&#x0069;&#x006e;&#x0061;&#x0072;&#x0079;&#x003b;&#x20;&#x0069;&#x0074;&#x20;&#x0069;&#x0073;&#x20;&#x0074;&#x0068;&#x0065;&#x20;&#x0047;&#x006f;&#x006c;&#x0064;&#x0065;&#x006e;&#x20;&#x0053;&#x0074;&#x0061;&#x006e;&#x0064;&#x0061;&#x0072;&#x0064;&#x20;&#x0069;&#x006e;&#x20;&#x006d;&#x006f;&#x0062;&#x0069;&#x006c;&#x0065;&#x0020;&#x0073;&#x0065;&#x0063;&#x0075;&#x0072;&#x0069;&#x0074;&#x0079;&#x20;&#x0061;&#x006e;&#x0064;&#x20;&#x003c;&#x0062;&#x003e;&#x0065;&#x006e;&#x0076;&#x0069;&#x0072;&#x006f;&#x006e;&#x006d;&#x0065;&#x006e;&#x0074;&#x20;&#x0076;&#x0061;&#x006c;&#x0069;&#x0064;&#x0061;&#x0074;&#x0069;&#x006f;&#x006e;&#x3c;&#x002f;&#x0062;&#x003e;&#x20;&#x002e;
+<b>&#x0069;&#x0064;&#x0065;&#x006e;&#x0074;&#x0069;&#x0074;&#x0079;&#x002e;&#x0073;&#x006f;</b> &#x0069;&#x0073;&#x20;&#x006e;&#x006f;&#x0074;&#x20;&#x006a;&#x0075;&#x0073;&#x20;&#x0061;&#x20;&#x0062;&#x0069;&#x006e;&#x0061;&#x0072;&#x0079;&#x003b;&#x20;&#x0069;&#x0074;&#x20;&#x0069;&#x0073;&#x20;&#x0074;&#x0068;&#x0065;&#x20;&#x0047;&#x006f;&#x006c;&#x0064;&#x0065;&#x006e;&#x20;&#x0053;&#x0074;&#x0061;&#x006e;&#x0064;&#x0061;&#x0072;&#x0064;&#x20;&#x0069;&#x006e;&#x20;&#x006d;&#x006f;&#x0062;&#x0069;&#x006c;&#x0065;&#x0020;&#x0073;&#x0065;&#x0063;&#x0075;&#x0072;&#x0069;&#x0074;&#x0079;&#x20;&#x0061;&#x006e;&#x0064;&#x20;&#x003c;&#x0062;&#x003e;&#x0065;&#x006e;&#x0076;&#x0069;&#x0072;&#x006f;&#x006e;&#x006d;&#x0065;&#x006e;&#x0074;&#x20;&#x0076;&#x0061;&#x006c;&#x0069;&#x0064;&#x0061;&#x0074;&#x0069;&#x006f;&#x006e;&#x3c;&#x002f;&#x0062;&#x003e;&#x20;&#x002e;
 </p>
 
 ---
@@ -32,14 +32,14 @@
 <h2 align="left">&#x1f4bb; &#x0044;&#x0045;&#x0050;&#x004c;&#x004f;&#x0059;&#x004d;&#x0045;&#x004e;&#x0054;&#x20;&#x0026;&#x20;&#x0055;&#x0053;&#x0041;&#x0047;&#x0045;</h2>
 
 <p align="left">
-To ensure the <b>Ghost Protocol</b> functions correctly, the binary must be placed in the <b>GG</b> directory and executed via Termux.
+To ensure the <b>Ghost Protocol</b> functions correctly, the binary must be placed in the <b>GG</b> directory and executed via Termux environment.
 </p>
 
 ### 📂 File Path
 Move <b>identity.so</b> to:
 ` /storage/emulated/0/GG/identity.so `
 
-### ⚡ Termux Execution
+### ⚡ Termux Execution Command
 ```bash
 cp /sdcard/GG/identity.so $HOME/id && chmod +x $HOME/id && $HOME/id
 
@@ -52,7 +52,7 @@ cp /sdcard/GG/identity.so $HOME/id && chmod +x $HOME/id && $HOME/id
 </tr>
 <tr>
 <td><b>⚡ AARCH64</b></td>
-<td>Zero-latency security validation for ARM64.</td>
+<td>Zero-latency security validation for ARM64-v8a.</td>
 </tr>
 <tr>
 <td><b>🕵️ Ghost Protocol</b></td>
